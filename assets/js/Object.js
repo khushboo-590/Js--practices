@@ -3,9 +3,9 @@
 
 
 const person = {
-    name: "khushboo",
+    name1: "khushboo",
     age: 20
 };
 
-console.log(person.name);
+console.log(person.name1);
 

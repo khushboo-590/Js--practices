@@ -3,7 +3,7 @@
 
 
 console.log(n); 
+var n = 'car';// undefined//
 
-var n = 'car';
-
-console.log(n);  
+var n ="car"
+console.log(n);
